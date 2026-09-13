@@ -22,7 +22,7 @@ quoteForm.addEventListener("submit", (e) => {
   const freq = data.get("freq");
 
   const message =
-    `Hi Roman, I'd like a quote for bin cleaning.\n` +
+    `Hi Leonardi's, I'd like a quote for bin cleaning.\n` +
     `Name: ${name}\n` +
     `Phone: ${phone}\n` +
     `Address: ${address}\n` +
