@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roman-l14.github.io/leonardi-garbage-bin-cleaning/sitemap.xml
